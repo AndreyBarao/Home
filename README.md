@@ -1,1 +1,5 @@
-# Home
+# Periféricos
+- Mouse
+- Teclado
+
+
